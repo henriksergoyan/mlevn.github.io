@@ -47,6 +47,7 @@ There are a growing number of companies built around machine learning in Yerevan
 * [WebbFontaine](https://webbfontaine.com/)
 * [Wolfram Research](https://www.wolfram.com/)
 * [Zero](https://www.zeroapp.ai/)
+* [SDG Innovation Lab](https://www.sdglab.am/en/)
 
 
 Crunchbase searches:  
